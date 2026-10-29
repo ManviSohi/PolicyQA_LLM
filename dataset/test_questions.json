@@ -1,0 +1,70 @@
+[
+  {
+    "question": "What is the minimum notice required to request remote work flexibility?",
+    "policy": "Remote Work Policy"
+  },
+  {
+    "question": "Which employees are eligible for remote work arrangements?",
+    "policy": "Remote Work Policy"
+  },
+  {
+    "question": "What equipment must employees use while working remotely?",
+    "policy": "Remote Work Policy"
+  },
+  {
+    "question": "What documentation is required for expense reimbursement requests?",
+    "policy": "Expense Reimbursement Policy"
+  },
+  {
+    "question": "Which expenses are not reimbursable under the policy?",
+    "policy": "Expense Reimbursement Policy"
+  },
+  {
+    "question": "How quickly must employees report a suspected information security incident?",
+    "policy": "Information Security Policy"
+  },
+  {
+    "question": "What types of data are protected under the security policy?",
+    "policy": "Information Security Policy"
+  },
+  {
+    "question": "What is the retention principle for regulated records?",
+    "policy": "Data Retention Policy"
+  },
+  {
+    "question": "How should records be destroyed at the end of their retention period?",
+    "policy": "Data Retention Policy"
+  },
+  {
+    "question": "What due diligence checks are required before engaging a vendor?",
+    "policy": "Third-Party Vendor Management Policy"
+  },
+  {
+    "question": "When can a vendor relationship be suspended or terminated?",
+    "policy": "Third-Party Vendor Management Policy"
+  },
+  {
+    "question": "What is prohibited under the anti-bribery policy?",
+    "policy": "Anti-Bribery and Corruption Policy"
+  },
+  {
+    "question": "How should employees report suspected bribery or corruption?",
+    "policy": "Anti-Bribery and Corruption Policy"
+  },
+  {
+    "question": "What are the approved categories of leave under the policy?",
+    "policy": "Leave and Time Off Policy"
+  },
+  {
+    "question": "What happens if employees misrepresent leave eligibility?",
+    "policy": "Leave and Time Off Policy"
+  },
+  {
+    "question": "Who leads the incident response effort during a major event?",
+    "policy": "Incident Response Policy"
+  },
+  {
+    "question": "What must be documented after an incident is resolved?",
+    "policy": "Incident Response Policy"
+  }
+]
